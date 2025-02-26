@@ -2,15 +2,6 @@
 
 This repository gathers a series of projects from my coursework in Statistics and Python programming. The projects range from function plotting and numerical optimization to classification experiments and Monte Carlo simulations. They showcase my skills in data visualization, statistical estimation, machine learning, and deep learning.
 
-## Contents
-
-1. [Homework 1 – Python Function Plotting](#homework-1)
-2. [Homework 2 – Advanced Plotting and Chi-Square Table](#homework-2)
-3. [Homework 3 – Classifier Comparison Experiments](#homework-3)
-4. [Mid Project – Monte Carlo Simulation for the Jarque-Bera Test](#mid-project)
-5. [Homework 5 – Univariate Function Root & Minimum Finding](#homework-5)
-6.  [Final Project – Normal Mixture & Constraint Optimization](#final-project)
-
 ---
 
 ## Homework 1 – Python Function Plotting

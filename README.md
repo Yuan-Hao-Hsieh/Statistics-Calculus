@@ -1,4 +1,4 @@
-# Projects and Assignments by Howard Hsieh (410978002)
+# Projects and Assignments by Howard Hsieh 
 
 This repository gathers a series of projects from my coursework in Statistics and Python programming. The projects range from function plotting and numerical optimization to classification experiments and Monte Carlo simulations. They showcase my skills in data visualization, statistical estimation, machine learning, and deep learning.
 
